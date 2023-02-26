@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  cursor: crosshair;
+}
+
+button {background-color: Transparent;
+  border: none;
+  color: rgba(100, 0, 100, 0);
+  padding: 0px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 52px;
+  font-family: 'courier', monospace;
+  }
+button:hover {
+  cursor: pointer;
+  color: rgb(255, 255, 255);
+}
